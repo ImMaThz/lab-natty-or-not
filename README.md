@@ -1,51 +1,26 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# 🐻‍❄️ Tardígrado: o Animal Mais Resistente do Planeta 🌌
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Um avatar de IA interativo que apresenta curiosidades de biologia sobre o tardígrado, o "urso-d'água", um animal com menos de 1 mm que sobrevive a frio extremo, radiação e até ao vácuo do espaço. O avatar conduz o público por uma apresentação de 8 slides e responde perguntas sobre o tema de forma curta, divertida e acessível para leigos.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- **D_ID**: criação do avatar interativo, voz e apresentação dos slides
+- **Claude**: escolha do tema, roteiro, base de conhecimento, saudações, perguntas iniciais e criação dos slides
+- **Claude Slides**: montagem e exportação da apresentação (.pptx) com notas do apresentador
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+1. **Escolha do tema:** usei IA para levantar temas de biologia com potencial de viralizar. Escolhi o tardígrado pelo visual curioso e pelos fatos impressionantes.
+2. **Base de conhecimento:** escrevi um texto curto só com fatos verificáveis (tamanho, habitat, criptobiose, missão FOTON-M3 de 2007) e incluí a regra "se não souber, diga que não sabe" para evitar que o avatar inventasse informações.
+3. **Slides:** criei 8 slides (gancho, quem é, o segredo, o que aguenta, a prova no espaço, o mito, encerramento), com o texto falado nas notas de cada slide.
+4. **Configuração do agente:** defini a saudação, 4 perguntas iniciais, temas a evitar (política, religião, diagnóstico médico) e um limite de 80 palavras por resposta.
+5. **Testes:** fiz as perguntas iniciais ao avatar e ajustei o conteúdo quando necessário.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+- Avatar funcional que apresenta o tema e responde perguntas sobre tardígrados
+- Apresentação de 8 slides com narração
+- [[Link do vídeo]](https://studio.d-id.com/agents/share?id=v2_agt_0IfCz2k9&key=Y2tfTE85eWg3NUwxZnlmNmF3b1l5SG5Q)
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+## 💭 Reflexão
+O maior desafio de criar algo "natty" (natural) com IA foi fazer o avatar soar humano e não robótico. Respostas longas deixam a fala artificial, então limitar o tamanho e usar linguagem simples fez muita diferença. Outro ponto foi a confiabilidade: a IA pode "inventar" fatos com segurança, por isso montei uma base de conhecimento enxuta e conferi as informações. Aprendi que a IA acelera muito a criação, mas a curadoria humana continua sendo o que garante qualidade.
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
