@@ -19,7 +19,7 @@ Um avatar de IA interativo que apresenta curiosidades de biologia sobre o tardí
 ## 🚀 Resultados
 - Avatar funcional que apresenta o tema e responde perguntas sobre tardígrados
 - Apresentação de 8 slides com narração
-- [[Link do vídeo]](https://studio.d-id.com/agents/share?id=v2_agt_0IfCz2k9&key=Y2tfTE85eWg3NUwxZnlmNmF3b1l5SG5Q)
+- [[Link do vídeo]](https://studio.d-id.com/agents/share?id=v2_agt_0IfCz2k9&utm_source=copy&key=Y2tfTE85eWg3NUwxZnlmNmF3b1l5SG5Q)
 
 ## 💭 Reflexão
 O maior desafio de criar algo "natty" (natural) com IA foi fazer o avatar soar humano e não robótico. Respostas longas deixam a fala artificial, então limitar o tamanho e usar linguagem simples fez muita diferença. Outro ponto foi a confiabilidade: a IA pode "inventar" fatos com segurança, por isso montei uma base de conhecimento enxuta e conferi as informações. Aprendi que a IA acelera muito a criação, mas a curadoria humana continua sendo o que garante qualidade.
